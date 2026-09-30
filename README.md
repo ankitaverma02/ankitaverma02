@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8EC5FC,100:E0C3FC&height=220&section=header&text=Mansi%20Pal&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Open%20Source%20Contributor%20%7C%20Frontend%20Developer&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8EC5FC,100:E0C3FC&height=220&section=header&text=Ankita%20Verma&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Open%20Source%20Contributor%20%7C%20Frontend%20Developer&descAlignY=60" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Ankita Verma</h1>
@@ -16,7 +16,7 @@
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=mansipal6390&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Ankitapal6390&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 - 🌱 I’m currently learning **React, Tailwind CSS, DSA & Open Source**
@@ -32,15 +32,15 @@
 
 <p align="left">
 
-<a href="https://github.com/mansipal6390" target="blank">
+<a href="https://github.com/Ankitapal6390" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=github" height="40" width="40" />
 </a>
 
-<a href="https://linkedin.com/in/mansi-pal-031909317" target="blank">
+<a href="https://linkedin.com/in/Ankita-pal-031909317" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" width="40" />
 </a>
 
-<a href="mailto:mansipal2632007@gmail.com" target="blank">
+<a href="mailto:Ankitapal2632007@gmail.com" target="blank">
 <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="40" width="40" />
 </a>
 
@@ -73,7 +73,7 @@
 <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
 
-<a href="https://www.geeksforgeeks.org/user/profile/mansipalrse1/" target="blank">
+<a href="https://www.geeksforgeeks.org/user/profile/Ankitapalrse1/" target="blank">
 <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-darkgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
 </a>
 
@@ -87,15 +87,15 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mansipal6390&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ankitapal6390&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mansipal6390&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ankitapal6390&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mansipal6390&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Ankitapal6390&theme=tokyonight" />
 </p>
 
 # 🏆 Achievements
@@ -119,7 +119,7 @@
 # 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mansipal6390/mansipal6390/output/snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/Ankitapal6390/Ankitapal6390/output/snake.svg" alt="snake animation" />
 </p>
 
 ---
@@ -131,5 +131,5 @@
 ---
 
 <p align="center">
-⭐ From <a href="https://github.com/mansipal6390">Mansi Pal</a>
+⭐ From <a href="https://github.com/Ankitapal6390">Ankita Pal</a>
 </p>
