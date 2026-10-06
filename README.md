@@ -87,15 +87,15 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ankitapal6390&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ankitaverma02&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ankitapal6390&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ankitaverma02&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ankitapal6390&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=ankitaverma02&theme=tokyonight" />
 </p>
 
 # 🏆 Achievements
